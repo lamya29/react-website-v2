@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lamya29/reactjs-website.git/static/css/main.3b46fcf3.css",
+    "main.js": "/lamya29/reactjs-website.git/static/js/main.b53b7c88.js",
+    "index.html": "/lamya29/reactjs-website.git/index.html",
+    "main.3b46fcf3.css.map": "/lamya29/reactjs-website.git/static/css/main.3b46fcf3.css.map",
+    "main.b53b7c88.js.map": "/lamya29/reactjs-website.git/static/js/main.b53b7c88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b46fcf3.css",
+    "static/js/main.b53b7c88.js"
+  ]
+}
